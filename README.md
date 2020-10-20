@@ -14,15 +14,17 @@
 In my spare time, I like to play games. I am also a magician you find me on YouTube as Magician Kritik Agarwal</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* **🌱 I’m currently learning** Python, Java
-* **⚡ Fun fact** I have hearing aids on both ears.
+* **🏆 I'm an avid improver.** Continuously learning how to make the world better.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align='center' markdown="1">
 
 ### My Github Stats
- ![Kritik's github stats](https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik&count_private=true)
- </div>
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Agarwal-Kritik&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/Agarwal-Kritik/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Agarwal-Kritik&layout=compact)](https://github.com/Agarwal-Kritik/github-readme-stats)
+
+
+<!--![Kritik's github stats](https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik) -->
  
 
  
