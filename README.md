@@ -21,7 +21,7 @@ In my spare time, I like to play games. I am also a magician you find me on YouT
 
 ### My Github Stats
 [![Kritik's github stats](https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik)](https://github.com/Agarwal-Kritik/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwal-Kritik)](https://github.com/Agarwal-Kritik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwal-Kritik&hide=javascript,html)](https://github.com/Agarwal-Kritik/github-readme-stats)
 
 
 <!--![Kritik's github stats](https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik) -->
