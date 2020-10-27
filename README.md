@@ -18,8 +18,8 @@ In my spare time, I like to play games. I am also a magician you find me on YouT
 
 ### Connect with me:
 
-[<img align="center" alt="Agarwal-Kritik | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="center" alt="Agarwal-Kritik | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+[<img align="left" alt="Agarwal-Kritik | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
+[<img align="left" alt="Agarwal-Kritik | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 
 <br />
 
