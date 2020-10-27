@@ -4,8 +4,7 @@
 
 <p align="center">
   <img alt="Agarwak-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik&show_icons=true&include_all_commits=true&hide_border=true" />
-<!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adi1090x&hide=ruby,perl&hide_border=true" />  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwal-Kritik&exclude_repo=github-readme-stats&hide_border=true" />
 </p>
 
 <h2 align="center">Hello there! My name is Kritik Agarwal. 👋🤓</h2>
@@ -16,14 +15,16 @@ In my spare time, I like to play games. I am also a magician you find me on YouT
 * **🏆 I'm an avid improver.** Continuously learning how to make the world better.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Connect with me:
+<div align="center">
 
-[<img align="left" alt="Agarwal-Kritik | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="Agarwal-Kritik | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+[<img align="center" alt="Agarwal-Kritik | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
+[<img align="center" alt="Agarwal-Kritik | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
+</p>
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/c.svg" />](https://www.google.com/search?&q=C+Programming)
@@ -36,7 +37,7 @@ In my spare time, I like to play games. I am also a magician you find me on YouT
 <br />
 <br />
  
-
+</div>
  
 
 
