@@ -3,8 +3,8 @@
 [linkedin]: https://www.linkedin.com/in/kritik-agarwal-395620145/
 
 <p align="center">
-  <img alt="Agarwak-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik&show_icons=true&include_all_commits=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwal-Kritik&exclude_repo=github-readme-stats,Agarwal-Kritik&hide_border=true" />
+  <img alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik&show_icons=true&include_all_commits=true&hide_border=true&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwal-Kritik&exclude_repo=github-readme-stats,Agarwal-Kritik&hide_border=true&theme=vue" />
 </p>
 
 <h2 align="center">Hello there! My name is Kritik Agarwal. 👋🤓</h2>
@@ -31,3 +31,5 @@ In my spare time, I like to play games. I am also a magician you can find me on 
   <a href="https://www.google.com/search?&q=Linux"><img alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg"></a>&nbsp;&nbsp;
   <a href="https://www.google.com/search?&q=Windows"><img alt="Windows" width="26px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />
 </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Agarwal-Kritik&repo=Programming-With-C&theme=vue)](https://github.com/Agarwal-Kritik/Programming-With-C)
