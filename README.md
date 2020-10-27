@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="Agarwak-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik&show_icons=true&include_all_commits=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwal-Kritik&exclude_repo=github-readme-stats&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwal-Kritik&exclude_repo=github-readme-stats,Agarwal-Kritik&hide_border=true" />
 </p>
 
 <h2 align="center">Hello there! My name is Kritik Agarwal. 👋🤓</h2>
