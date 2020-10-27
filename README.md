@@ -23,8 +23,8 @@ In my spare time, I like to play games. I am also a magician you can find me on 
 </p>
   
 <p align="center">
-  <a href="https://www.github.com/Agarwal-Kritik"><img alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik&show_icons=true&include_all_commits=true&hide_border=true&theme=vue"></a>&nbsp;&nbsp;
-  <a href="https://www.github.com/Agarwal-Kritik"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwal-Kritik&exclude_repo=github-readme-stats,Agarwal-Kritik&hide_border=true&theme=vue"></a>
+  <a href="https://www.github.com/Agarwal-Kritik"><img alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik&show_icons=true&include_all_commits=true&theme=vue"></a>&nbsp;&nbsp;
+  <a href="https://www.github.com/Agarwal-Kritik"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwal-Kritik&exclude_repo=github-readme-stats,Agarwal-Kritik&theme=vue"></a>
 </p>
 
 ### Pinned:
