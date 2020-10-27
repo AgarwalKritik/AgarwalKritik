@@ -1,11 +1,12 @@
-![Kritik-cover](https://github.com/Agarwal-Kritik/Agarwal-Kritik/blob/master/Cover.png)
-
+<p align="center">
+  <img alt="Agarwak-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik&show_icons=true&include_all_commits=true&hide_border=true" />
+<!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adi1090x&hide=ruby,perl&hide_border=true" />  -->
+</p>
 <p align='center'>
 <a href="https://www.linkedin.com/in/kritik-agarwal-395620145/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 <div align='center'>
- 
-![Kritik's views](https://komarev.com/ghpvc/?username=Agarwal-Kritik)
 
 </div>
 
@@ -17,14 +18,18 @@ In my spare time, I like to play games. I am also a magician you find me on YouT
 * **🏆 I'm an avid improver.** Continuously learning how to make the world better.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align='center' markdown="1">
+### Languages and Tools:
 
-### My Github Stats
-[![Kritik's github stats](https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik)](https://github.com/Agarwal-Kritik/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwal-Kritik&hide=javascript,shell)](https://github.com/Agarwal-Kritik/github-readme-stats)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/c.svg" />](https://www.google.com/search?&q=C+Programming)
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.google.com/search?&q=Github)
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
+[<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
+[<img align="left" alt="Windows" width="26px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />](https://www.google.com/search?&q=Windows)
 
-
-<!--![Kritik's github stats](https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik) -->
+<br />
+<br />
  
 
  
