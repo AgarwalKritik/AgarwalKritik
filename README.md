@@ -19,7 +19,7 @@ In my spare time, I like to play games. I am also a magician you can find me on 
   <a href="https://www.google.com/search?&q=Visual+Studio+Code"><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a>&nbsp;&nbsp;
   <a href="https://www.google.com/search?&q=C+Programming"><img alt="C" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/c.svg"></a>&nbsp;&nbsp;
 <a href="https://www.google.com/search?&q=Python"><img alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg"></a>&nbsp;&nbsp;
-<a href="https://www.google.com/search?&q=Github"><img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>&nbsp;&nbsp;
+<a href="https://www.google.com/search?&q=Github"><img alt="GitHub" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" /></a>&nbsp;&nbsp;
   <a href="https://www.google.com/search?&q=command+line+interface"><img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>&nbsp;&nbsp;
   <a href="https://www.google.com/search?&q=Linux"><img alt="Linux" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/25/25719.svg"></a>&nbsp;&nbsp;
   <a href="https://www.google.com/search?&q=Windows"><img alt="Windows" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732076.svg">
