@@ -6,7 +6,7 @@ In my spare time, I like to play games. I am also a magician you can find me on 
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.github.com/Agarwal-Kritik"><img alt="Agarwal-Kritik | Github" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.github.com/Kritik007"><img alt="Agarwal-Kritik | Github" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kritik-agarwal-395620145/"><img alt="Agarwal-Kritik | LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCfDHSnzsiwav9pN2X7cpvAQ/"><img alt="Agarwal-Kritik | Youtube" height="25px" src="https://www.flaticon.com/svg/static/icons/svg/733/733646.svg"></a>
 </p>
@@ -27,8 +27,8 @@ In my spare time, I like to play games. I am also a magician you can find me on 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
   
 <p align="center">
-  <a href="https://www.github.com/Agarwal-Kritik"><img alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Agarwal-Kritik&show_icons=true&hide_border=true&include_all_commits=true&theme=vue"></a>&nbsp;&nbsp;
-  <a href="https://www.github.com/Agarwal-Kritik"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agarwal-Kritik&exclude_repo=github-readme-stats,Agarwal-Kritik&hide_border=true&theme=vue"></a>
+  <a href="https://www.github.com/Kritik007"><img alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kritik007&show_icons=true&hide_border=true&include_all_commits=true&theme=vue"></a>&nbsp;&nbsp;
+  <a href="https://www.github.com/Kritik007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritik007&exclude_repo=github-readme-stats,Agarwal-Kritik&hide_border=true&theme=vue"></a>
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
