@@ -38,7 +38,7 @@ In my spare time, I like to play games. I am also a magician you can find me on 
 <img height="100" width="auto" src="https://cd.foundation/wp-content/uploads/sites/78/2020/09/Logo-Sponsors-Light.svg" /><br>
 </p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
+<h2></h2> 
 
 <p align="center">
   <a href="https://github.com/keshavsingh4522/hacktoberfest2020"><img alt="Agarwal-Kritik's Hacktoberfest2020 participation repo" src="https://github-readme-stats.vercel.app/api/pin/?username=keshavsingh4522&repo=hacktoberfest2020&theme=vue&show_owner=true"></a>&nbsp;&nbsp;
