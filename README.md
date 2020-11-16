@@ -28,7 +28,7 @@ In my spare time, I like to play games. I am also a magician you can find me on 
   
 <p align="center">
   <a href="https://www.github.com/Kritik007"><img alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kritik007&show_icons=true&hide_border=true&include_all_commits=true&theme=vue"></a>&nbsp;&nbsp;
-  <a href="https://www.github.com/Kritik007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritik007&exclude_repo=github-readme-stats,Agarwal-Kritik&hide_border=true&theme=vue"></a>
+  <a href="https://www.github.com/Kritik007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritik007&exclude_repo=github-readme-stats,Kritik007.github.io,Kritik007&hide_border=true&theme=vue"></a>
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
