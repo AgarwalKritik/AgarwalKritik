@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! My name is Kritik Agarwal. 👋🤓</h2>
 <p align="center">I am a 2nd Year undergraduate student at CMR University - School of Engineering & Technology, Bengaluru. I am interested in App Development, Competitive Programming,and many other things.
-In my spare time, I like to play games. I am also a magician you can find me on YouTube as Magician Kritik Agarwal</p>
+In my spare time, I like to explore things which sparks my interest. I am also a magician you can find me on YouTube as Magician Kritik Agarwal</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
