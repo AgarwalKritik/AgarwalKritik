@@ -5,7 +5,7 @@ In my spare time, I like to explore things which sparks my interest.</p>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 <p align="center">
   <a href="https://www.github.com/Kritik007"><img alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kritik007&show_icons=true&hide_border=true&include_all_commits=true&theme=dark"></a>&nbsp;&nbsp;
-  <a href="https://www.github.com/Kritik007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritik007&exclude_repo=github-readme-stats,Kritik007.github.io,Kritik007&hide_border=true&theme=dark"></a>
+  <a href="https://www.github.com/Kritik007"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritik007&layout=compact&exclude_repo=github-readme-stats,Kritik007.github.io,Kritik007&hide_border=true&theme=dark"></a>
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
