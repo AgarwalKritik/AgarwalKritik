@@ -20,7 +20,6 @@ In my spare time, I like to explore things which sparks my interest.</p>
   <a href="https://www.google.com/search?&q=Java+Programming"><img alt="Java" width="26px" src="https://camo.githubusercontent.com/651195b8c66a9dd22316e672992077dbcecea4ca904b45a6681558ebc0ecc517/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67"></a>&nbsp;&nbsp;
 <a href="https://www.google.com/search?&q=Github"><img alt="GitHub" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" /></a>&nbsp;&nbsp;
   <a href="https://www.google.com/search?&q=command+line+interface"><img alt="Console" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/console.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.google.com/search?&q=Linux"><img alt="Linux" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/25/25719.svg"></a>&nbsp;&nbsp;
   <a href="https://www.google.com/search?&q=Windows"><img alt="Windows" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732076.svg">
 </p>
 
