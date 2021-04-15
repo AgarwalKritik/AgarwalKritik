@@ -14,22 +14,22 @@ In my spare time, I like to explore things which sparks my interest.</p>
 <p align="center">
   <a href="https://www.google.com/search?&q=Visual+Studio+Code"><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a>&nbsp;&nbsp;
   <a href="https://www.google.com/search?&q=JetBrains+Intellij"><img alt="JetBrains Intellij IDEA" height="26px" src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png"></a>&nbsp;&nbsp;
-  <a href="https://www.google.com/search?&q=C+Programming"><img alt="C" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/c.svg"></a>&nbsp;&nbsp;
-<a href="https://www.google.com/search?&q=Python"><img alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.google.com/search?&q=Cpp+Programming"><img alt="C++" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/cpp.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.google.com/search?&q=Java+Programming"><img alt="Java" width="26px" src="https://camo.githubusercontent.com/651195b8c66a9dd22316e672992077dbcecea4ca904b45a6681558ebc0ecc517/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67"></a>&nbsp;&nbsp;
-<a href="https://www.google.com/search?&q=Github"><img alt="GitHub" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" /></a>&nbsp;&nbsp;
+  <a href="https://www.google.com/search?&q=C+Programming"><img alt="C" src="https://img.shields.io/badge/Programming-100000?style=for-the-badge&logo=c&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.google.com/search?&q=Python"><img alt="Python" src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.google.com/search?&q=Cpp+Programming"><img alt="C++" src="https://img.shields.io/badge/C++-C%20PLUS%20PLUS-100000?style=for-the-badge&logo=cpp&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.google.com/search?&q=Java+Programming"><img alt="Java" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.google.com/search?&q=Github"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.google.com/search?&q=command+line+interface"><img alt="Console" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/console.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.google.com/search?&q=Windows"><img alt="Windows" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732076.svg">
+  <a href="https://www.google.com/search?&q=Windows"><img alt="Windows" src="https://img.shields.io/badge/Windows-100000?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.github.com/Kritik007"><img alt="Agarwal-Kritik | Github" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kritik-agarwal-395620145/"><img alt="Agarwal-Kritik | LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCfDHSnzsiwav9pN2X7cpvAQ/"><img alt="Agarwal-Kritik | Youtube" height="25px" src="https://www.flaticon.com/svg/static/icons/svg/733/733646.svg"></a>
+  <a href="https://www.github.com/Kritik007"><img alt="Agarwal-Kritik | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kritik-agarwal-395620145/"><img alt="Agarwal-Kritik | LinkedIn" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCfDHSnzsiwav9pN2X7cpvAQ/"><img alt="Agarwal-Kritik | Youtube" src="https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=youtube&logoColor=red"></a>
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
