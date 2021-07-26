@@ -1,6 +1,5 @@
-<h2 align="center">Hello there! My name is Kritik Agarwal. 👋🤓</h2>
-<p align="center">I am a 2nd Year undergraduate student at CMR University - School of Engineering & Technology, Bengaluru. I am interested in App Development, Competitive Programming,and many other things.
-In my spare time, I like to explore things which sparks my interest.</p>
+<h2 align="center">Hello there! My name is Kritik Agarwal.</h2>
+<p align="center">I am a 3rd Year undergraduate student at CMR University - School of Engineering & Technology, Bengaluru. I am interested in Competitive Programming,and many other things. In my spare time, I like to explore things which sparks my interest.</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 <p align="center">
@@ -33,8 +32,3 @@ In my spare time, I like to explore things which sparks my interest.</p>
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-
-### Participations:
-<p align="center">
-<img height="100" width="auto" src="https://cd.foundation/wp-content/uploads/sites/78/2020/09/Logo-Sponsors-Light.svg" /><br>
-</p>
