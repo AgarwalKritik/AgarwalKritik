@@ -28,7 +28,6 @@
 <p align="center">
   <a href="https://www.github.com/Kritik007"><img alt="Agarwal-Kritik | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kritik-agarwal-395620145/"><img alt="Agarwal-Kritik | LinkedIn" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCfDHSnzsiwav9pN2X7cpvAQ/"><img alt="Agarwal-Kritik | Youtube" src="https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=youtube&logoColor=red"></a>
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
