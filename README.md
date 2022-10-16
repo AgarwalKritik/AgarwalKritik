@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/Kritik007"><img alt="Kritik Agarwal" src="https://github.com/Kritik007/Kritik007/blob/main/svg/my-name-is-kritik-agarwal.svg"></a>
 </p>
-<p align="center">I am a 3rd Year undergraduate student at CMR University - School of Engineering & Technology, Bengaluru. I am interested in Competitive Programming,and many other things. In my spare time, I like to explore things which sparks my interest.</p>
+<p align="center">I am a 4th Year undergraduate student at CMR University - School of Engineering & Technology, Bengaluru. I am interested in Competitive Programming,and many other things. In my spare time, I like to explore things which sparks my interest.</p>
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
