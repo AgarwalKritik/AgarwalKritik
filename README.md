@@ -6,6 +6,15 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://kritik.go.studio"><img alt="Agarwal-Kritik | Github" src="https://img.shields.io/badge/ALL%20SOCIALS-100000?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kritik-agarwal-395620145/"><img alt="Agarwal-Kritik | LinkedIn" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+</p>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
 <p align="center">
   <a href="https://www.github.com/Kritik007"><img height="150px" alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kritik007&show_icons=true&hide_border=true&include_all_commits=true&theme=dark"></a>&nbsp;&nbsp;
   <a href="https://www.github.com/Kritik007"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritik007&layout=compact&exclude_repo=github-readme-stats,Kritik007.github.io,Kritik007&hide_border=true&theme=dark"></a>
@@ -27,11 +36,3 @@
 </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://www.github.com/Kritik007"><img alt="Agarwal-Kritik | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kritik-agarwal-395620145/"><img alt="Agarwal-Kritik | LinkedIn" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-</p>
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
