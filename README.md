@@ -10,7 +10,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://kritik.go.studio"><img alt="Agarwal-Kritik | Github" src="https://img.shields.io/badge/ALL%20SOCIALS-100000?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kritik-agarwal-395620145/"><img alt="Agarwal-Kritik | LinkedIn" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kritik-agarwal/"><img alt="Agarwal-Kritik | LinkedIn" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
