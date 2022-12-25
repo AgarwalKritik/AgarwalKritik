@@ -3,7 +3,10 @@
   <a href="https://kritik.go.studio"><img alt="Kritik Agarwal" src="https://github.com/Kritik007/Kritik007/blob/main/svg/my-name-is-kritik-agarwal.svg"></a>
 </p>
 
-# 💫 About Me:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+<h3> 💫 About Me </h3>
+
 🔭 I’m currently studying in Final Year of B.Tech in Computer Science and Engineering <br>👯 I’m looking to collaborate on C++/Python/Machine Learning/Data Analysis Projects<br>🌱 I’m currently learning languages in depth - C++ and DSA<br>💬 Ask me about coding and how to make a strong coding profile
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
