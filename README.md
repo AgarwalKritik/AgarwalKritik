@@ -38,7 +38,7 @@ I'm Kritik Agarwal, an upcoming CSE Master's student at IIT Hyderabad with a str
    Indian Institute of Technology (IIT), Hyderabad
 
 🎓 Bachelor of Technology in Computer Science and Engineering\
-   CMR University, Bengaluru\
+   CMR University, Bengaluru
 
 ## Certifications
 
