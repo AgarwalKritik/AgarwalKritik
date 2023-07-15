@@ -7,7 +7,7 @@
 
 # Hey there! 👋
 
-I'm Kritik Agarwal, an upcoming CSE Master's student at IIT Hyderabad with a strong passion for technology and a relentless curiosity to explore the depths of the tech world. I'm a tech enthusiast with a focus on computer science and its applications.
+I'm Kritik Agarwal, a CSE Master's student at IIT Hyderabad with a strong passion for technology and a relentless curiosity to explore the depths of the tech world. I'm a tech enthusiast with a focus on computer science and its applications.
 
 ## About Me
 
