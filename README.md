@@ -28,9 +28,9 @@ I'm Kritik Agarwal, a CSE Master's student at IIT Hyderabad with a strong passio
 
 ## Projects
 
-🚀 [Airline Fare Prediction](https://github.com/Kritik007/Airline-Fare-Prediction)\
-🚀 [Teleconference App](https://github.com/Kritik007/Teleconference-App)\
-🚀 [Google Meet Attendance Automation](https://github.com/Kritik007/cmru-meet-attendance-system)
+🚀 [Airline Fare Prediction](https://github.com/AgarwalKritik/Airline-Fare-Prediction)\
+🚀 [Teleconference App](https://github.com/AgarwalKritik/Teleconference-App)\
+🚀 [Google Meet Attendance Automation](https://github.com/AgarwalKritik/cmru-meet-attendance-system)
 
 ## Education
 
