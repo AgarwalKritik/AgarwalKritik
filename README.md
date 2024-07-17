@@ -47,8 +47,8 @@ I'm Kritik Agarwal, a CSE Master's student at IIT Hyderabad with a strong passio
 
 ## Get in Touch
 
-🌐 [All Links](https://Kritik007.github.io)\
-🔗 [LinkedIn](https://linkedin.com/in/kritik-agarwal)
+🌐 [All Links](https://AgarwalKritik.github.io)\
+🔗 [LinkedIn](https://linkedin.com/in/AgarwalKritik)
 
 Feel free to reach out to me if you have any exciting projects or collaborations in mind. I'm always enthusiastic about connecting with like-minded individuals and exploring new opportunities in the tech industry.
 
