@@ -57,7 +57,7 @@ Looking forward to the amazing journey ahead! 🚀
 ---------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <a href="https://www.github.com/Kritik007"><img height="150px" alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kritik007&show_icons=true&hide_border=true&include_all_commits=true&theme=chartreuse-dark"></a>&nbsp;&nbsp;
-  <a href="https://www.github.com/Kritik007"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritik007&layout=compact&exclude_repo=github-readme-stats,Kritik007.github.io,Kritik007&hide_border=true&theme=chartreuse-dark"></a>&nbsp;&nbsp;
-  <a href="https://www.github.com.Kritik007"><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kritik007&theme=chartreuse-dark&hide_border=true"></a>
+  <a href="https://www.github.com/AgarwalKritik"><img height="150px" alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AgarwalKritik&show_icons=true&hide_border=true&include_all_commits=true&theme=chartreuse-dark"></a> &nbsp;&nbsp;
+  <a href="https://www.github.com/AgarwalKritik"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgarwalKritik&layout=compact&exclude_repo=github-readme-stats,Kritik007.github.io,Kritik007&hide_border=true&theme=chartreuse-dark"></a> &nbsp;&nbsp;
+  <a href="https://www.github.com/AgarwalKritik"><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=AgarwalKritik&theme=chartreuse-dark&hide_border=true"></a>
 </p>
