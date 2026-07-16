@@ -65,6 +65,7 @@ M.Tech graduate in **Computer Science & Engineering** from IIT Hyderabad, with a
 | [![Kritik Agarwal Stats](https://github-stats-extended.vercel.app/api?username=AgarwalKritik&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=AgarwalKritik&theme=dracula&currStreakLabel=437C85&sideLabels=437C85&ring=007BEB&fire=007BEB&sideNums=007BEB&background=FFFFFF00&dates=437C85&hide_border=true)](https://git.io/streak-stats) | [![AgarwalKritik Stats](https://github-stats-extended.vercel.app/api/top-langs/?username=AgarwalKritik&show_icons=true&theme=transparent&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 </div>
+
 ---
 
 ## `// trophies`
